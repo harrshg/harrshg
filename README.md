@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/harshgoel"><img src="https://img.shields.io/badge/LinkedIn-harshgoel-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/harrshg"><img src="https://img.shields.io/badge/LinkedIn-harrshg-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:harsh2002goel@gmail.com"><img src="https://img.shields.io/badge/Email-harsh2002goel@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/harsh-sql"><img src="https://img.shields.io/badge/GitHub-harsh--sql-181717?style=flat&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/harrshg"><img src="https://img.shields.io/badge/GitHub-harrshg-181717?style=flat&logo=github&logoColor=white"/></a>
 </p>
 
 ---
