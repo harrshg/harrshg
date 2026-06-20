@@ -15,7 +15,7 @@
 
 ## About me
 
-I'm a Software Engineer at **Graebert India**, where I build AI-powered diagnostic tooling and large-scale test automation for [ARES Kudo](https://www.graebert.com/cad-software/ares-kudo/) — a cloud-based CAD platform.
+I'm a Software Engineer at **Graebert India**, where I build AI-powered diagnostic tooling and large-scale test automation for [ARES Kudo](https://www.graebert.com/cad-software/ares-kudo/) - a cloud-based CAD platform.
 
 - Designed a **lightweight AI model** that ingests Jenkins, InfluxDB & MongoDB data to diagnose build/test failures and deliver automated LLM feedback to developers via PR comments
 - Automated **200+ UI test cases** using Playwright & TypeScript, cutting regression cycles by **40%**
@@ -120,5 +120,5 @@ Predictive model that analyses rainfall, water levels, and weather data to issue
 
 <p align="center">
   <i>Open to AI/ML Engineer and Backend Automation roles — let's connect!</i><br/>
-  <a href="https://www.linkedin.com/in/harshgoel">linkedin.com/in/harshgoel</a>
+  <a href="https://www.linkedin.com/in/harshgoel">linkedin.com/in/harrshg</a>
 </p>
